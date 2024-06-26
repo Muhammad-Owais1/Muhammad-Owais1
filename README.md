@@ -1,5 +1,5 @@
- 👋 Hi, I’m @Muhammad-Owais1
-# I'm MERN Stack Developer and Islamic Student of Knowledge (Darsenizami). I'll Be Software Engineer Within a Few Year.
+# Hi, I’m @Muhammad-Owais1
+### I'm MERN Stack Developer and Islamic Student of Knowledge (Darsenizami). I'll Be Software Engineer Within a Few Year.
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
