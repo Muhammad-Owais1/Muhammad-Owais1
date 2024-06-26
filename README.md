@@ -1,14 +1,15 @@
-<p align="center">
+<div align="center">
+  <h1>Hi, I’m @Muhammad-Owais1</h1>
+</div>
 
-// Your content
-**Hi, I’m @Muhammad-Owais1**
+<div align="center">
+  <h3>I'm MERN Stack Developer and Islamic Student of Knowledge (Darsenizami). I'll Be Software Engineer Within a Few Year.</h3>
+</div>
 
-</p>
-### I'm MERN Stack Developer and Islamic Student of Knowledge (Darsenizami). I'll Be Software Engineer Within a Few Year.
-
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+<h4>- 👀 I’m interested in Learning Python for Data Analystics.</h4>
+<h4>- 🌱 I’m currently learning IT Automations by Google.</h4>
+<h4>- 💞️ I’m looking to collaborate with Tech Companies and Like-Minded Developers.</h4>
+<h4>- 📫 Reach me [owaistech62@gmail.com](owaistech62@gmail.com)</h4>
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
