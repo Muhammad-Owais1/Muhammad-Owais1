@@ -7,7 +7,7 @@
 </div>
 
 <h4>- 👨🏻‍💻 I know JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB and more!</h4>
-<h4>- 🌱 I’m currently learning IT Automations by Google.</h4>
+<h4>- 🌱 I’m currently learning IT Automations by Google at Coursera.</h4>
 <h4>- 👀 I’m interested in Learning Python for Data Analystics.</h4>
 <h4>- 💞️ I’m looking to collaborate with Tech Companies and Like-Minded Developers.</h4>
 <h4>- 📫 Reach me <a href="mailto:owaistech62@gmail.com">owaistech62@gmail.com</a></h4>
