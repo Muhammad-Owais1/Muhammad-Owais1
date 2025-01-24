@@ -6,7 +6,7 @@
   <h3>Software Engineer</h3>
 </div>
 
-<h4>- 👨🏻‍💻 MERN & PERN Stack Developer</h4>
+<h4>- 👨🏻‍💻 MERN && PERN && MEAN Stack Developer</h4>
 <h4>- 👨🏻‍💻 Tenserflow Developer</h4>
 <h4>- 👨🏻‍💻 Go Lang Developer</h4>
 <h4>- 💞️ I’m looking to collaborate with Tech Companies and Like-Minded Developers.</h4>
